@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
